@@ -22,7 +22,7 @@ To install all dependencies, type
 yarn install
 ```
 
-Then, if you want to work on a game, type
+Then, to run a development server and see the result of your code in the browser while working on it, type
 ```bash
 yarn dev
 ```
